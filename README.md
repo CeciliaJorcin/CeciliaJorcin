@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cecilia</h1>
 <h3 align="center">frontend developer & designer from Colonia, Uruguay</h3>
 
+I am a software developer with a different story... I started my career in software development, working in front end and back end using various technologies. In 2011, I decided to embark on an exciting change of direction and dive into the world of design and creating sewing patterns for children's clothing. During this phase, I self-taught myself in areas like graphic design, user instruction creation, photography, marketing, and social media, all while working from home to raise my young children.
+Now, I am ready to return to the IT world so I have been intensively preparing myself in technologies like React JS, HTML, JS, CSS. My most recent experience was at <a href="http://www.upcamp.io" target="_blank" rel="noreferrer">upCamp.io</a>, where I acquired and reinforced my knowledge in web development while working in teams under the Scrum methodology.
+
+My adaptability, creativity, and self-directed learning are key driving forces for me. I am excited to share projects and collaborate with the community of developers on GitHub.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cecilia-jorcin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cecilia-jorcin" height="30" width="40" /></a>

@@ -36,7 +36,6 @@ My adaptability, creativity, and self-directed learning are key driving forces f
 </p>
 <h3 align="left">Recent projects:</h3>
 <p align="left"> 
-  <a href="https://www.amarila.com.uy" target="_blank" rel="noreferrer"> <img src="https://amarila.com.uy/wp-content/uploads/2022/02/logofooter.png" alt="Amarila" width="40" height="40" /> </a>
   <a href="https://www.pastor.com.uy" target="_blank" rel="noreferrer"> <img src="http://pastor.com.uy/images/favicon.png" alt="PASTOR" width="40" height="40" /> </a>
   <a href="https://www.levetech.uy" target="_blank" rel="noreferrer"> <img src="https://levetech.uy/wp-content/uploads/2023/03/cropped-THUMB-Levetech-Jucar-192x192.jpg" alt="illustrator" width="40" height="40"/> </a>
 </p>

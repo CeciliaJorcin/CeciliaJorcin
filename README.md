@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cecilia</h1>
 <h3 align="center">frontend developer & designer from Colonia, Uruguay</h3>
 
-I am a software developer with a different story... I started my career in software development, working in front end and back end using various technologies. In 2011, I decided to embark on an exciting change of direction and dive into the world of design and creating sewing patterns for children's clothing. During this phase, I self-taught myself in areas like graphic design, user instruction creation, photography, marketing, and social media, all while working from home to raise my young children.
-Now, I am ready to return to the IT world so I have been intensively preparing myself in technologies like React JS, HTML, JS, CSS. My most recent experience was at <a href="http://www.upcamp.io" target="_blank" rel="noreferrer">upCamp.io</a>, where I acquired and reinforced my knowledge in web development while working in teams under the Scrum methodology.
+I am a full stack software developer with special interest in web design and front end development. I have 7+ years of experiencia with PHP, HTML, CSS, MySQL and more recently React JS, HTML, JS, CSS.
 
 My adaptability, creativity, and self-directed learning are key driving forces for me. I am excited to share projects and collaborate with the community of developers on GitHub.
 
